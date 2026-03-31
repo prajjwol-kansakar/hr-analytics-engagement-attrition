@@ -29,7 +29,7 @@ try:
         host="localhost",       # your DB host
         database="HRDATA",
         user="postgres",
-        password="tebahal1!",
+        password="######",    # use your password
         port="5432"
     )
 
